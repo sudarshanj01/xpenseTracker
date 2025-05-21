@@ -1,0 +1,11 @@
+TYPE,CATEGORY,AMOUNT,DESCRIPTION,DATE
+INCOME,Salary,3000.00,Monthly salary,2025-05-01
+EXPENSE,Rent,1200.00,Apartment rent,2025-05-03
+EXPENSE,Food,150.75,Grocery shopping,2025-05-05
+EXPENSE,Utilities,85.20,Electricity bill,2025-05-10
+INCOME,Investment,250.00,Stock dividends,2025-05-15
+EXPENSE,Transportation,65.50,Gas for car,2025-05-18
+EXPENSE,Entertainment,45.00,Movie tickets,2025-05-20
+EXPENSE,Food,120.30,Restaurant dinner,2025-05-22
+INCOME,Gift,100.00,"Birthday gift from mom",2025-05-25
+EXPENSE,Shopping,95.60,New clothes,2025-05-28
